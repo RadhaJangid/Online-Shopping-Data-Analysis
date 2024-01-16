@@ -24,13 +24,21 @@ Project Type: Data Analysis
 Tools Used: SQL, Excel, MySQL Workbench 8.0
 
 # Key Highlights
-In-Depth Examination:
-Conducted a thorough exploration of online shopping data.
-
-SQL Data Analysis:
-Leveraged SQL for robust and detailed data analysis, extracting meaningful patterns and trends.
-Excel Insights Extraction:
-Utilized Excel as a complementary tool to extract valuable insights from the analyzed data.
+Performing several important steps in data analysis using SQL -
+<ol>
+  <li>Load the Data</li>
+  <li>Display Top & Bottom 5 Rows</li>
+  <li>Check Various Attributes of Data</li>
+  <li>Info of Data / Schema of Table</li>
+  <li>Check Value Count for Required Column</li>
+  <li>Null or Missing Value Check</li>
+  <li>Missing Value Treatment</li>
+  <li>Handling Invalid Data</li>
+  <li>Feature Binning</li>
+  <li>Sanity Checks / Data Cleaning</li>
+  <li>SQL JOINS</li>
+  <li>Remove Columns Not Required for Processing</li>
+</ol>
 
 # How to Use
 This repository contains the SQL scripts and queries used for the data analysis. Feel free to explore the code and findings.
