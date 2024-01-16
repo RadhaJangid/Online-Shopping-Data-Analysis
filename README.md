@@ -34,9 +34,10 @@ Performing several important steps in data analysis using SQL -
   <li>Null or Missing Value Check</li>
   <li>Missing Value Treatment</li>
   <li>Handling Invalid Data</li>
+  <li>Descriptive Statistics</li>
   <li>Feature Binning</li>
   <li>Sanity Checks / Data Cleaning</li>
-  <li>SQL JOINS</li>
+  <li>JOINS</li>
   <li>Remove Columns Not Required for Processing</li>
 </ol>
 
