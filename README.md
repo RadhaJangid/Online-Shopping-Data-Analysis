@@ -294,7 +294,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 
 
 <h4 style="font-family:verdana;">Dashboard Creation</h4>
-<p style="font-family:courier;"></p>
+<p style="font-family:courier;"><img src="Dashboard.png" alt="Dashboard snnipet" width="500" height="600"></p>
 
 <h4 style="font-family:verdana;">Drawing insights</h4>
 <p style="font-family:courier;"></p>
