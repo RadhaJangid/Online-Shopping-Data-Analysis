@@ -33,7 +33,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 </ul></h6>
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
-<h5 style="font-family:verdana;">Objective</h5>
+<h4 style="font-family:verdana;">Objective</h4>
 <p style="font-family:courier;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
 
 
