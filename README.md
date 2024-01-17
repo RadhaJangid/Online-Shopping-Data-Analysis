@@ -1,32 +1,32 @@
 <h1 style="font-family:verdana;">Online Shopping Data Analysis in the United States - 2014</h1> 
-<p>The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
+<p style="font-family:verdana;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
 
 <h2 style="font-family:verdana;">Overview</h2>
-<p>As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
+<p style="font-family:verdana;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
 </p>
 <h2 style="font-family:verdana;">About the Organization</h2> 
-<h4>
+<P style="font-family:verdana;">
     Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
 management sector mainly focused on the field of Analytics. 
 Our core area of working is in Data Analytics for BFSI domain. 
 Our team is working on basic AI tools to make the world a better easier place to live. Our core 
 expertise lies in making the Graduates industry ready. We are highly skilled and trained in 
-delivering training to aspiring Graduates. </h4>
+delivering training to aspiring Graduates. </p>
 
 <h2 style="font-family:verdana;">Dataset Used</h2>
-<h4>Transaction Details :</h4>
-<p>The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
+<h4 style="font-family:verdana;">Transaction Details :</h4>
+<p style="font-family:verdana;">The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
 The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
-<h4>Customer Details :</h4>
-<p>The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
+<h4 style="font-family:verdana;">Customer Details :</h4>
+<p style="font-family:verdana;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
 <h2 style="font-family:verdana;">Project Details</h2>
-<h6>Internship : Edulyt India</h6>
-<h6>Domain/Field : Analytics</h6>
-<h6>Project Type : Data Analysis</h6>
-<h6>Tools Used:
+<h6 style="font-family:verdana;">Internship : Edulyt India</h6>
+<h6 style="font-family:verdana;">Domain/Field : Analytics</h6>
+<h6 style="font-family:verdana;">Project Type : Data Analysis</h6>
+<h6 style="font-family:verdana;">Tools Used:
 <ul>
   <li>SQL</li>
   <li>Excel</li>
