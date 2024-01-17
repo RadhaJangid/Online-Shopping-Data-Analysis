@@ -235,7 +235,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Feature Engineering</h4>
 <p style="font-family:courier;">Created new features like Customer_Segmentation, Value_Items, Discount, extracting Month from Purchase_Date column to enhance the analysis.</p>
 
-<h4 style="font-family:verdana;">Visualization and Reporting</h4>
+<h4 style="font-family:verdana;">Data Visualization and Presentation</h4>
 <p style="font-family:courier;">Loaded the cleaned and processed data into Microsoft Excel, applied:-
   <ol>
     <li>Basic formatting - is an essential step in presenting data in a clear and organized manner. It 
@@ -259,6 +259,19 @@ The dataset capturing detailed information about individual e-commerce transacti
               with a light orange background & bold white font.</li>
         </ul>
     </li>
+    <li>Combo Chart- 
+      <p>This chart combines two different types of charts (likely a bar chart for Spend and a line chart for 
+         Sales_Quantity) to showcase both spend and sales quantity in each product category.</p>
+    </li>
+    <li>Line Chart-
+        <p> Shows the overall trend in total sales over the months in 2014. The trendline helps identify 
+            patterns or trends more easily</p>
+    </li>
+    <li>Bar Chart-
+        <p>Offers a clear comparison of spending patterns based on different payment methods</p>
+    </li>
+    
+    
   </ol>
 </p>
 <h4 style="font-family:verdana;">Data Exploration</h4>
