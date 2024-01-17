@@ -19,7 +19,7 @@ delivering training to aspiring Graduates. </p>
 <p>The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
 The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
-<h5>Customer Details :</h5>
+<h4>Customer Details :</h4>
 <p>The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
 <h2>Project Details</h2>
