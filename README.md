@@ -98,11 +98,13 @@ The dataset capturing detailed information about individual e-commerce transacti
           <li>High value items (cell value = 1) are highlighted in bold green font in the Value_Items 
               column.</li>
           <li>Advanced conditional formatting is used to highlight all rows where the return indicator is 1 
-              with a light orange background & bold white font</li>
+              with a light orange background & bold white font.</li>
         </ul>
-      </li>
+    </li>
   </ol>
 </p>
+<h4 style="font-family:verdana;">Data Exploration</h4>
+<p style="font-family:courier;">Pivot Table </p>
 
 <h4 style="font-family:verdana;">Dashboard Creation</h4>
 <p style="font-family:courier;"></p>
