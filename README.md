@@ -80,7 +80,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Visualization and Reporting</h4>
 <p style="font-family:courier;">Loaded the cleaned and processed data into Microsoft Excel, applied:-
   <ol>
-    <li><b>Basic formatting<b> is an essential step in presenting data in a clear and organized manner. It 
+    <li>Basic formatting - is an essential step in presenting data in a clear and organized manner. It 
            involves:
         <ul>
           <li>Adjust the Font Size</li>
