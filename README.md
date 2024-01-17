@@ -75,10 +75,28 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h6>Please see SQL script file</h6>
 
 <h4 style="font-family:verdana;">Feature Engineering</h4>
-<p style="font-family:courier;">Created new features like Customer_Segmentation, Value_Items, Discount, extracting Month from Purchase_Date column to enhance the analysis </p>
+<p style="font-family:courier;">Created new features like Customer_Segmentation, Value_Items, Discount, extracting Month from Purchase_Date column to enhance the analysis.</p>
 
 <h4 style="font-family:verdana;">Visualization and Reporting</h4>
-<p style="font-family:courier;"></p>
+<p style="font-family:courier;">Loaded the cleaned and processed data into Microsoft Excel, applied:-
+  <ul>
+    <li>Basic formatting is an essential step in presenting data in a clear and organized manner. It involves:
+    
+    <ul>
+      <li>Adjust the Font Size</li>
+      <li>Adjust Column Size</li>
+      <li>Highlight the Header</li>
+      <li>Use Different Background Colors</li>
+      <li>Center the Title</li>
+      <li>Give borders around the ranges of values</li>
+    </ul>
+    </p>
+    </li>
+    
+    <li>Conditional Formating</li>
+  </ul>
+  
+</p>
 
 <h4 style="font-family:verdana;">Dashboard Creation</h4>
 <p style="font-family:courier;"></p>
