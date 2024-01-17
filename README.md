@@ -74,6 +74,10 @@ The dataset capturing detailed information about individual e-commerce transacti
 <p style="font-family:courier;">SQL INNER JOIN is used to merge data from two tables based on common columns.</p>
 <h6>Please see SQL script file</h6>
 
+<h4 style="font-family:verdana;">Feature Engineering</h4>
+<p style="font-family:courier;"></p>
+<h6>Please see Excel file</h6>
+
 
 
 
