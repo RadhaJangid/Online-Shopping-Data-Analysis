@@ -75,7 +75,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h6>Please see SQL script file</h6>
 
 <h4 style="font-family:verdana;">Feature Engineering</h4>
-<p style="font-family:courier;"></p>
+<p style="font-family:courier;">Created new features like Customer_Segmentation, Value_Items, Discount, extracting Month from Purchase_Date column to enhance the analysis </p>
 
 <h4 style="font-family:verdana;">Visualization and Reporting</h4>
 <p style="font-family:courier;"></p>
