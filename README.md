@@ -296,14 +296,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Dashboard Creation</h4>
 <p style="font-family:courier;"><img src="Dashboard.png" alt="Dashboard snnipet"></p>
 
-<h4 style="font-family:verdana;">Drawing insights</h4>
-<p style="font-family:courier;"></p>
 <h6>Please see Excel file</h6>
-
-
-
-
-
 
 <h2 style="font-family:verdana;">How to Use</h2>
 <p style="font-family:courier;">This repository contains the SQL scripts and queries used for the data analysis. Feel free to explore the code and findings.</p>
