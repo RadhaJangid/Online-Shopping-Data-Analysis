@@ -92,7 +92,15 @@ The dataset capturing detailed information about individual e-commerce transacti
         </ul>
     </li>
     <li>Conditional Formating -  To enhance the visual representation of data by applying formatting styles 
-        to cells based on specific conditions or rules</li>
+        to cells based on specific conditions or rules
+        <ul>
+          <li>Selling_Price column highlighted with data bars to view highest, lowest, average sales.</li>
+          <li>High value items (cell value = 1) are highlighted in bold green font in the Value Item 
+              column.</li>
+          <li>Advanced conditional formatting is used to highlight all rows where the return indicator is 1 
+              with a light orange background, bold white font</li>
+        </ul>
+      </li>
   </ol>
 </p>
 
