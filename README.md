@@ -6,7 +6,7 @@
 </p>
 <h2 style="font-family:verdana;">About the Organization</h2> 
 <P style="font-family:courier;">
-    Edulyt India is an early age start-up working towards reducing the Gap between Education & 
+Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
 management sector mainly focused on the field of Analytics. 
 Our core area of working is in Data Analytics for BFSI domain. 
