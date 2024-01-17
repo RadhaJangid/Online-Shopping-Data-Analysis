@@ -17,8 +17,11 @@ delivering training to aspiring Graduates. </p>
 <h4 style="font-family:verdana;">Transaction Details :</h4>
 <p style="font-family:courier;">The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
 The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
+<h4 style="font-family:verdana;">Customer Details :</h4>
+<p style="font-family:courier;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
 <h2 style="font-family:verdana;">Dataset Info</h2>
+<i><h6 style="font-family:verdana;">Table-1 : Transaction Details</h6></i>
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
     <tr>
@@ -118,6 +121,7 @@ The dataset capturing detailed information about individual e-commerce transacti
     </tr>
   </table>
 </div>
+<i><h6 style="font-family:verdana;">Table-2 : Customer Details</h6></i>
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
     <tr>
@@ -173,8 +177,7 @@ The dataset capturing detailed information about individual e-commerce transacti
   </table>
 </div>
 
-<h4 style="font-family:verdana;">Customer Details :</h4>
-<p style="font-family:courier;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
+
 
 
 <h2 style="font-family:verdana;">Project Details</h2>
