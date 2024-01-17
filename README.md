@@ -38,6 +38,8 @@ The dataset capturing detailed information about individual e-commerce transacti
 <p style="font-family:courier;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
 <h4 style="font-family:verdana;">Data Collection</h4>
 <p style="font-family:courier;">We collect data from an Excel file called “Credit Banking”, which consists of two worksheets – one for customer information and the other for transactions. We split this data into two CSV files, imported and organized into two separate tables within the database.</p>
+<h4 style="font-family:verdana;">Basic Data Analysis</h4>
+<p style="font-family:courier;"></p>
 
 
 
