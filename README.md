@@ -70,6 +70,8 @@ The dataset capturing detailed information about individual e-commerce transacti
     <li>Remove columns not required for processing</li>
   </ol>
 </p>
+<h4 style="font-family:verdana;">JOINS</h4>
+<p style="font-family:courier;"></p>
 
 
 
