@@ -21,6 +21,7 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Customer Details :</h4>
 <p style="font-family:courier;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
+
 <h2 style="font-family:verdana;">Project Details</h2>
 <h5 style="font-family:verdana;">Internship : Edulyt India</h5>
 <h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
@@ -35,6 +36,8 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h2 style="font-family:verdana;">Key Highlights</h2>
 <h4 style="font-family:verdana;">Objective</h4>
 <p style="font-family:courier;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
+<h4 style="font-family:verdana;">Data Collection</h4>
+<p style="font-family:courier;"></p>
 
 
 <h2 style="font-family:verdana;">How to Use</h2>
