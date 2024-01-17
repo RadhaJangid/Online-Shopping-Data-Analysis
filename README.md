@@ -118,6 +118,60 @@ The dataset capturing detailed information about individual e-commerce transacti
     </tr>
   </table>
 </div>
+<div class="w3-container">
+  <table class="w3-table-all w3-card-4">
+    <tr>
+      <th>COLUMN NAME</th>
+      <th>DATA TYPE</th>
+      <th>DESCRIPTION</th>
+    </tr>
+    <tr>
+      <td>C_ID</td>
+      <td>integer</td>
+      <td>The credit card used for the transaction</td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>string</td>
+      <td>The email address associated with the customer</td>
+    </tr>
+    <tr>
+      <td>Name</td>
+      <td>string</td>
+      <td>The name of the customer</td>
+    </tr>
+    <tr>
+      <td>Mobile_number</td>
+      <td>integer</td>
+      <td>The mobile number associated with the customer</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>string</td>
+        <td>The gender of the customer</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>integer</td>
+        <td>Customer's age</td>
+    </tr>
+    <tr>
+        <td>City</td>
+        <td>string</td>
+        <td>The city where the customer is located</td>
+    </tr>
+    <tr>
+        <td>State</td>
+        <td>string</td>
+        <td>The state or region where the customer resides</td>
+    </tr>    
+    <tr>
+      <td>Address</td>
+      <td>string</td>
+      <td>Customer's Address</td>
+    </tr>
+  </table>
+</div>
 
 <h4 style="font-family:verdana;">Customer Details :</h4>
 <p style="font-family:courier;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
