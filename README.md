@@ -77,10 +77,13 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Feature Engineering</h4>
 <p style="font-family:courier;"></p>
 
-<h4 style="font-family:verdana;">Conditional Formatting</h4>
+<h4 style="font-family:verdana;">Visualization and Reporting</h4>
 <p style="font-family:courier;"></p>
 
-<h4 style="font-family:verdana;">Organizing and Summarizing data</h4>
+<h4 style="font-family:verdana;">Dashboard Creation</h4>
+<p style="font-family:courier;"></p>
+
+<h4 style="font-family:verdana;">Drawing insights</h4>
 <p style="font-family:courier;"></p>
 <h6>Please see Excel file</h6>
 
