@@ -49,7 +49,18 @@ The dataset capturing detailed information about individual e-commerce transacti
   <h6>Please see SQL script file</h6>
 </ul> 
 </p>
-
+<h4 style="font-family:verdana;">Sanity Checks – Data Cleaning</h4>
+<p style="font-family:courier;">
+  <ul>
+    <li>Provide a meaningful treatment where the Credit Card entries are blank.</li>
+    <li>Identity where Price is equal to Selling Price even after having a Coupon Code, apply an automatic 
+        discount of 5% for those entries.</li>
+    <li>Make sure that the return date is after the Purchase Date.</li>
+    <li>If the Coupon ID is NULL, make sure that NO discount is given, the Selling Price should be equal to 
+        Price.</li>
+    <li>Age should be greater than 18 for all the CC holders.</li>
+  </ul>
+</p>
 
 
 
