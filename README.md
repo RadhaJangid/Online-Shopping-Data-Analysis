@@ -41,11 +41,11 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Basic Data Analysis</h4>
 <p style="font-family:courier;">Several basic steps are used in the process of exploring and understanding data.Such as :
 <ul>
-  <li>Display Top & Bottom 5 Rows</li>
-  <li>Check Data Attributes</li>
-  <li>Concise Summary of Table</li>
-  <li>Value Count for Required Column</li>
-  <li>Descriptive Statistics of Numeric Columns</li>
+  <li>Display Top & Bottom 5 rows</li>
+  <li>Check data attributes</li>
+  <li>Concise summary of table</li>
+  <li>Value count for categorical columns</li>
+  <li>Descriptive statistics of numeric columns</li>
 </ul>
 </p>
 
