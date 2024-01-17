@@ -15,11 +15,11 @@ expertise lies in making the Graduates industry ready. We are highly skilled and
 delivering training to aspiring Graduates. </p>
 
 <h2>Dataset Used</h2>
-<h6>Transaction Details :</h6>
+<h4>Transaction Details :</h4>
 <p>The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
 The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
-<h6>Customer Details :</h6>
+<h5>Customer Details :</h5>
 <p>The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
 <h2>Project Details</h2>
