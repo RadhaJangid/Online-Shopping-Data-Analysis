@@ -259,17 +259,18 @@ The dataset capturing detailed information about individual e-commerce transacti
               with a light orange background & bold white font.</li>
         </ul>
     </li>
-    <li>Combo Chart- 
-      <p>This chart combines two different types of charts (likely a bar chart for Spend and a line chart for 
-         Sales_Quantity) to showcase both spend and sales quantity in each product category.</p>
-    </li>
-    <li>Line Chart-
-        <p> Shows the overall trend in total sales over the months in 2014. The trendline helps identify 
-            patterns or trends more easily</p>
-    </li>
-    <li>Bar Chart-
-        <p>Offers a clear comparison of spending patterns based on different payment methods</p>
-    </li>
+    <li>Charts used</li>
+    <h5>Combo Chart-</h5> 
+    <p>This chart combines two different types of charts (likely a bar chart for Spend and a line chart for 
+       Sales_Quantity) to showcase both spend and sales quantity in each product category.</p>
+ 
+    <h5>Line Chart-</h5>
+    <p> Shows the overall trend in total sales over the months in 2014. The trendline helps identify 
+        patterns or trends more easily</p>
+    
+    <h5>Bar Chart-</h5>
+    <p>Offers a clear comparison of spending patterns based on different payment methods</p>
+
     
     
   </ol>
