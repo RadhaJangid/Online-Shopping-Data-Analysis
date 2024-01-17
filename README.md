@@ -90,7 +90,6 @@ The dataset capturing detailed information about individual e-commerce transacti
       <li>Center the Title</li>
       <li>Give borders around the ranges of values</li>
     </ul>
-    </p>
     </li>
     
     <li>Conditional Formating</li>
