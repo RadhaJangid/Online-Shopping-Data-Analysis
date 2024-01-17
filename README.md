@@ -1,5 +1,5 @@
 <h1 style="font-family:verdana;">Online Shopping Data Analysis in the United States - 2014</h1> 
-
+<img src="Flow_Chart.png" alt="Data Analtics Process">
 <h2 style="font-family:verdana;">Overview</h2>
 <p style="font-family:courier;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
 </p>
