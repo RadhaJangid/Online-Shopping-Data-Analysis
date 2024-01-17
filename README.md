@@ -1,45 +1,40 @@
-# Online Shopping Data Analysis in the United States - 2014
-The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.
+<h1>Online Shopping Data Analysis in the United States - 2014</h1> 
+<p>The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
 
-# Overview
-As a Data Analytics Intern at EduLyt India, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at EduLyt India.
+<h2>Overview</h2>
+<p>As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
+</p>
+<h2>About the Organization</h2> 
+<p>
+    Edulyt India is an early age start-up working towards reducing the Gap between Education & 
+Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
+management sector mainly focused on the field of Analytics. 
+Our core area of working is in Data Analytics for BFSI domain. 
+Our team is working on basic AI tools to make the world a better easier place to live. Our core 
+expertise lies in making the Graduates industry ready. We are highly skilled and trained in 
+delivering training to aspiring Graduates. </p>
 
+<h2>Dataset Used</h2>
+<h3>Transaction Details :</h3>
+<p>Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.</p>
+<p>The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
-# Dataset Used - 
-Transaction Details : 
-Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
-The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.
+<h3>Customer Details :</h3>
+<p>The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
-Customer Details : 
-The Customer Details dataset provides information about individuals engaged in online shopping transactions.
-
-# Project Details
-
-Internship: Edulyt India
-
-Domain : Data Analytics
-
-Project Type: Data Analysis
-
-Tools Used: SQL, Excel, MySQL Workbench 8.0
+<h2>Project Details</h2>
+<h6>Internship:</h6>Edulyt India
+<h6>Domain/Field:</h6>Analytics
+<h6>Project Type:</h6>Data Analysis
+<h6>Tools Used:</h6>
+<ul>
+  <li>SQL</li>
+  <li>Excel</li>
+  <li>MySQL Workbench 8.0</li>
+</ul>
 
 # Key Highlights
-Performing several important steps in data analysis using SQL -
-<ol>
-  <li>Load the Data</li>
-  <li>Display Top & Bottom 5 Rows</li>
-  <li>Check Various Attributes of Data</li>
-  <li>Info of Data / Schema of Table</li>
-  <li>Check Value Count for Required Column</li>
-  <li>Null or Missing Value Check</li>
-  <li>Missing Value Treatment</li>
-  <li>Handling Invalid Data</li>
-  <li>Descriptive Statistics</li>
-  <li>Feature Binning</li>
-  <li>Sanity Checks / Data Cleaning</li>
-  <li>JOINS</li>
-  <li>Remove Columns Not Required for Processing</li>
-</ol>
+
 
 # How to Use
 This repository contains the SQL scripts and queries used for the data analysis. Feel free to explore the code and findings.
