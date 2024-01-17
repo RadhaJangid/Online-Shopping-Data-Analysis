@@ -268,22 +268,22 @@ The dataset capturing detailed information about individual e-commerce transacti
           </li>
           <li>Line Chart
               <p>Shows the overall trend in total sales over the months in 2014. The trendline helps identify 
-                 patterns or trends more easily</p>
+                 patterns or trends more easily.</p>
           </li>
           <li>Bar Chart
-              <p>Offers a clear comparison of spending patterns based on different payment methods</p>
+              <p>Offers a clear comparison of spending patterns based on different payment methods.</p>
           </li>
           <li>Pie Chart
               <p>Provides a visual representation of the proportional contribution of each segment to the 
-                 total customer spend</p>
+                 total customer spend.</p>
           </li>
           <li>Donut Chart
               <p>Clearly presents the distribution of discounts among the top three brands.</p>
           </li>
       </ul>
     </li> 
-    <li>Slicers
-        <p> Enables users to focus on specific states or product conditions, facilitating a more detailed                 analysis of the data based on these parameters.</p>
+    <li>Slicers - Enables users to focus on specific states or product conditions, facilitating a more 
+        detailed analysis of the data based on these parameters.
     </li>
   </ol>
 </p>
