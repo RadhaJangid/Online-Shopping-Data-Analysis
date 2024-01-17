@@ -18,6 +18,107 @@ delivering training to aspiring Graduates. </p>
 <p style="font-family:courier;">The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
 The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
+<h2 style="font-family:verdana;">Dataset Info</h2>
+<div class="w3-container">
+  <table class="w3-table-all w3-card-4">
+    <tr>
+      <th>COLUMN NAME</th>
+      <th>DATA TYPE</th>
+      <th>DESCRIPTION</th>
+    </tr>
+    <tr>
+      <td>Credit_Card</td>
+      <td>integer</td>
+      <td>The credit card used for the transaction</td>
+    </tr>
+    <tr>
+      <td>Product_ID</td>
+      <td>integer</td>
+      <td>Identifier for the purchased product</td>
+    </tr>
+    <tr>
+      <td>P_Category</td>
+      <td>string</td>
+      <td>Product category</td>
+    </tr>
+    <tr>
+      <td>P_Condition</td>
+      <td>string</td>
+      <td>The condition of the purchased product:New, Used, Refurbished</td>
+    </tr>
+    <tr>
+        <td>Brand</td>
+        <td>string</td>
+        <td>Brand of the product</td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>decimal</td>
+        <td>The original price of the product</td>
+    </tr>
+    <tr>
+        <td>Selling_Price</td>
+        <td>decimal</td>
+        <td>The price at which the product was sold</td>
+    </tr>
+    <tr>
+        <td>Coupon_ID</td>
+        <td>string</td>
+        <td>Identifier for any applied coupons</td>
+    </tr>    
+    <tr>
+      <td>Date</td>
+      <td>date</td>
+      <td>Date of the purchase</td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td>time</td>
+      <td>Time of the purchase</td>
+    </tr>
+    <tr>
+      <td>GTIN</td>
+      <td>integer</td></td>
+      <td>Global Trade Item Number</td>
+    </tr>
+    <tr>
+      <td>MPN</td>
+      <td>integer</td>
+      <td>Manufacturer Part Number</td>
+    </tr>
+    <tr>
+        <td>Merchant_Name</td>
+        <td>string</td>
+        <td>Name of the merchant or seller</td>
+    </tr>
+    <tr>
+      <td>M_ID</td>
+      <td>string</td>
+      <td>Merchant ID</td>
+    </tr>
+    <tr>
+      <td>Payment_Method</td>
+      <td>string</td>
+      <td>The method used for payment</td>
+    </tr>
+    <tr>
+      <td>Transaction_ID</td>
+      <td>integer</td>
+      <td>Unique identifier for the transaction</td>
+    </tr>
+    <tr>
+        <td>Return_Indicator</td>
+        <td>integer</td>
+        <td>Indicates whether the product was returned (1/0)</td>
+    </tr>
+    <tr>
+        <td>Return_Date</td>
+        <td>date</td>
+        <td>Date of the return (if applicable)</td>
+    </tr>
+  </table>
+</div>
+
 <h4 style="font-family:verdana;">Customer Details :</h4>
 <p style="font-family:courier;">The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
