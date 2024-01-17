@@ -71,7 +71,7 @@ The dataset capturing detailed information about individual e-commerce transacti
   </ol>
 </p>
 <h4 style="font-family:verdana;">JOINS</h4>
-<p style="font-family:courier;"></p>
+<p style="font-family:courier;">SQL INNER JOIN is used to merge data from two tables based on common columns.</p>
 
 
 
