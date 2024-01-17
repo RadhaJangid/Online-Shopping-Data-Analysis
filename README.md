@@ -5,7 +5,7 @@
 <p style="font-family:courier;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
 </p>
 <h2 style="font-family:verdana;">About the Organization</h2> 
-<P style="font-family:courier;">
+<P style="font-family:courier;text-align:center;">
     Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
 management sector mainly focused on the field of Analytics. 
