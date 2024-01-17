@@ -91,7 +91,8 @@ The dataset capturing detailed information about individual e-commerce transacti
           <li>Give borders around the ranges of values</li>
         </ul>
     </li>
-    <li>Conditional Formating</li>
+    <li>Conditional Formating -  To enhance the visual representation of data by applying formatting styles 
+        to cells based on specific conditions or rules</li>
   </ol>
 </p>
 
