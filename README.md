@@ -104,7 +104,9 @@ The dataset capturing detailed information about individual e-commerce transacti
   </ol>
 </p>
 <h4 style="font-family:verdana;">Data Exploration</h4>
-<p style="font-family:courier;">Pivot Table </p>
+<p style="font-family:courier;">Pivot Table
+<p>Pivot table is a data processing tool used for summarizing, analyzing, and visualizing large datasets.</p>
+</p>
 
 <h4 style="font-family:verdana;">Dashboard Creation</h4>
 <p style="font-family:courier;"></p>
