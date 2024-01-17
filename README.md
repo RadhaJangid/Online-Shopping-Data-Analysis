@@ -15,23 +15,23 @@ expertise lies in making the Graduates industry ready. We are highly skilled and
 delivering training to aspiring Graduates. </p>
 
 <h2>Dataset Used</h2>
-<h3>Transaction Details :</h3>
-<p>Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.</p>
-<p>The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
+<h6>Transaction Details :</h6>
+<p>The Transaction Details Dataset is related to e-commerce transactions, specifically capturing information about purchases made through credit cards.
+The dataset capturing detailed information about individual e-commerce transactions, including product details, pricing, payment methods, and indicators for returns.</p>
 
-<h3>Customer Details :</h3>
+<h6>Customer Details :</h6>
 <p>The Customer Details dataset provides information about individuals engaged in online shopping transactions.</p>
 
 <h2>Project Details</h2>
-<h6>Internship:</h6>Edulyt India
-<h6>Domain/Field:</h6>Analytics
-<h6>Project Type:</h6>Data Analysis
-<h6>Tools Used:</h6>
+<h6>Internship : Edulyt India</h6>
+<h6>Domain/Field : Analytics</h6>
+<h6>Project Type : Data Analysis</h6>
+<h6>Tools Used:
 <ul>
   <li>SQL</li>
   <li>Excel</li>
   <li>MySQL Workbench 8.0</li>
-</ul>
+</ul></h6>
 
 # Key Highlights
 
