@@ -1,5 +1,4 @@
 <h1 style="font-family:verdana;">Online Shopping Data Analysis in the United States - 2014</h1> 
-<p style="font-family:courier;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
 
 <h2 style="font-family:verdana;">Overview</h2>
 <p style="font-family:courier;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on 2014 online shopping data from the United States. Using SQL and Excel, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
@@ -34,6 +33,10 @@ The dataset capturing detailed information about individual e-commerce transacti
 </ul></h6>
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
+<h5 style="font-family:verdana;">Objective</h5>
+<p style="font-family:courier;">The project aims to uncover valuable insights from online shopping data to help businesses make informed decisions in the e-commerce space.</p>
+
+
 <h2 style="font-family:verdana;">How to Use</h2>
 <p style="font-family:courier;">This repository contains the SQL scripts and queries used for the data analysis. Feel free to explore the code and findings.</p>
 
