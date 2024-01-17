@@ -39,10 +39,10 @@ The dataset capturing detailed information about individual e-commerce transacti
 <h4 style="font-family:verdana;">Data Collection</h4>
 <p style="font-family:courier;">We collect data from an Excel file called "Credit Banking", which consists of two worksheets – one for customer information and the other for transactions. We split this data into two CSV files, imported and organized into two separate tables within the database.</p>
 <h4 style="font-family:verdana;">Basic Data Analysis</h4>
-<p style="font-family:courier;">Several basic steps are used in the process of exploring and understanding data.Such as :
+<p style="font-family:courier;">Several basic steps are used in the process of exploring and understanding data. Such as :
 <ul>
   <li>Display Top & Bottom 5 rows</li>
-  <li>Check data attributes</li>
+  <li>Check the various attributes of data like shape (rows and columns), Columns, datatypes</li>
   <li>Concise summary of table</li>
   <li>Value count for categorical columns</li>
   <li>Descriptive statistics of numeric columns</li>
