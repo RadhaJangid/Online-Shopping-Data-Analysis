@@ -7,8 +7,8 @@ show tables;
 # 1. Load the data file 
 	CREATE TABLE Purchase_Details(Credit_Card INT, Product_ID INT, P_Category VARCHAR(16), P_Condition VARCHAR(11), Brand VARCHAR(5), Price DOUBLE, Selling_Price DOUBLE, Coupon_ID VARCHAR(5), Purchase_Date date, Purchase_Time time, GTIN INT, MPN INT, Merchant_Name VARCHAR(20), M_ID VARCHAR(6), Payment_Method VARCHAR(22), Transaction_ID INT, Return_Indicator BOOLEAN, Return_Date date);
 	SELECT *  FROM Purchase_Details;
-    
-                                                     -- BASIC DATA ANALYSIS --  
+
+-- BASIC DATA ANALYSIS --  
                                                      
 -- Table:- "Cust_Info"
 SELECT * FROM Cust_Info;
