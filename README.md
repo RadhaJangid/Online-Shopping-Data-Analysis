@@ -201,10 +201,9 @@ The dataset capturing detailed information about individual e-commerce transacti
 <ul>
   <li>Display Top & Bottom 5 rows</li>
   <li>Check the various attributes of data like shape (rows and columns), Columns, datatypes</li>
-  <li>Concise summary of table</li>
+  <li>Concise Summary of the dataframe</li>
   <li>Value count for categorical columns</li>
   <li>Descriptive statistics of numeric columns</li>
-  <h6>Please see SQL script file</h6>
 </ul> 
 </p>
 <h4 style="font-family:verdana;">Sanity Checks – Data Cleaning & Data Processing</h4>
@@ -219,8 +218,8 @@ The dataset capturing detailed information about individual e-commerce transacti
           <li>Identity where Price is equal to Selling Price even after having a Coupon Code, apply an 
               automatic discount of 5% for those entries.</li>
           <li>Make sure that the return date is after the Purchase Date.</li>
-          <li>If the Coupon ID is NULL, make sure that No discount is given, the Selling Price should be equal 
-              to Price.</li>
+          <li>If the Coupon ID is NULL, make sure that No discount is given, the Selling Price should be 
+              equal to Price.</li>
           <li>Age should be greater than 18 for all the CC holders.</li>
         </ul>
     </li>
