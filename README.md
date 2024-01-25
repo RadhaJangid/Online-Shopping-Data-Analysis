@@ -189,7 +189,7 @@ The dataset capturing detailed information about individual e-commerce transacti
   <li>SQL</li>
   <li>Excel</li>
   <li>MySQL Workbench 8.0</li>
-</ul></h6>
+</ul></h5>
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
 <h4 style="font-family:verdana;">Objective</h4>
